@@ -1,0 +1,329 @@
+{
+ "start_date": "2026-10-11",
+ "title": "Spotter's Challenge",
+ "version": 2,
+ "scoring": "3 points for a first-try answer, 2 for second, 1 for third, 0 if missed.",
+ "note": "TEST build: answers are in this file. The live version should check answers server-side (see LEADERBOARD-PLAN.md).",
+ "puzzles": [
+  {
+   "format": "Exact variant",
+   "mode": "choice",
+   "focus": [
+    57,
+    35
+   ],
+   "zoom": [
+    3.2,
+    1.8,
+    1
+   ],
+   "question": "Which exact 777 variant is this?",
+   "clues": [
+    "Start with the wingtip, then count the door pairs.",
+    "It has the GE90-115B, the only engine offered on this variant.",
+    "The best-selling 777 version by far, and a daily sight at LAX."
+   ],
+   "options": [
+    "777-200ER",
+    "777-200LR",
+    "777-300",
+    "777-300ER"
+   ],
+   "answer": "777-300ER",
+   "aliases": [
+    "777-300er",
+    "77w",
+    "b77w",
+    "boeing 777-300er",
+    "773er"
+   ],
+   "tell": "Raked wingtips plus the long fuselage with five door pairs. The -300 has the same length but no raked tips; the -200LR has raked tips but only four door pairs.",
+   "fact": "United 777-300ER on final at Washington Dulles. Registration and fleet number blurred so you cannot look it up.",
+   "credit": {
+    "title": "United Boeing 777-300ER N2136U IAD VA2.jpg",
+    "artist": "Acroterion",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:United_Boeing_777-300ER_N2136U_IAD_VA2.jpg",
+    "changes": "Resized to 900 px wide, all embedded metadata (EXIF/XMP) stripped; zoomed crops shown during play. Registration and fleet number blurred."
+   },
+   "date": "2026-10-11",
+   "image": "img/puzzle-1.jpg",
+   "n": 1
+  },
+  {
+   "format": "Engine ID",
+   "mode": "choice",
+   "focus": [
+    82,
+    24
+   ],
+   "zoom": [
+    3.2,
+    1.8,
+    1
+   ],
+   "question": "Name the engine on this 747.",
+   "clues": [
+    "Look at the trailing edge of the fan nozzle.",
+    "Only one 747 version could have this engine, and it first flew in 2010.",
+    "A bleed-air sibling of one of the 787's two engine choices."
+   ],
+   "options": [
+    "GEnx-2B67",
+    "CF6-80C2B1F",
+    "PW4056",
+    "RB211-524H"
+   ],
+   "answer": "GEnx-2B67",
+   "aliases": [
+    "genx",
+    "genx-2b",
+    "genx-2b67",
+    "ge genx",
+    "genx 2b"
+   ],
+   "tell": "Chevrons (the sawtooth trailing edge) on the nacelle. Of the 747's engine options, only the 747-8's GEnx-2B has them; CF6, PW4000 and RB211 nacelles have smooth edges.",
+   "fact": "Nippon Cargo Airlines 747-8F JA13KZ on approach to Tokyo Narita. The engine name printed on the nacelles is blurred.",
+   "credit": {
+    "title": "Boeing 747-8F GENx engines and main landing gear.jpg",
+    "artist": "Masakatsu Ukon",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Boeing_747-8F_GENx_engines_and_main_landing_gear.jpg",
+    "changes": "Resized to 900 px wide, all embedded metadata (EXIF/XMP) stripped; zoomed crops shown during play. Engine-maker lettering on both nacelles blurred."
+   },
+   "date": "2026-10-12",
+   "image": "img/puzzle-2.jpg",
+   "n": 2
+  },
+  {
+   "format": "Which airport",
+   "mode": "choice",
+   "focus": [
+    55,
+    38
+   ],
+   "zoom": [
+    2.6,
+    1.6,
+    1
+   ],
+   "question": "Which SoCal airport is this?",
+   "clues": [
+    "The building opened in 1941 and is a protected landmark.",
+    "The control tower sits on top of the terminal itself.",
+    "Its runway 30 is the longest on the field and its airline slots are capped by a local noise ordinance."
+   ],
+   "options": [
+    "Long Beach (LGB)",
+    "Burbank (BUR)",
+    "Santa Barbara (SBA)",
+    "Ontario (ONT)"
+   ],
+   "answer": "Long Beach (LGB)",
+   "aliases": [
+    "lgb",
+    "klgb",
+    "long beach",
+    "long beach airport",
+    "long beach (lgb)"
+   ],
+   "tell": "The 1941 Streamline Moderne terminal with its rooftop tower and porthole windows. Burbank's terminal is a 1930 Spanish Revival building and ONT and SBA have modern terminals.",
+   "fact": "Long Beach's historic terminal now serves as the ticketing building; gates are in the newer concourse behind it. The airport name on the facade is blurred.",
+   "credit": {
+    "title": "Long Beach Airport (KLGB) (4829530493).jpg",
+    "artist": "Atomic Taco from Seattle, WA, USA",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Long_Beach_Airport_(KLGB)_(4829530493).jpg",
+    "changes": "Resized to 900 px wide, all embedded metadata (EXIF/XMP) stripped; zoomed crops shown during play. Airport name lettering on the facade blurred."
+   },
+   "date": "2026-10-13",
+   "image": "img/puzzle-3.jpg",
+   "n": 3
+  },
+  {
+   "format": "Exact variant (type it)",
+   "mode": "type",
+   "focus": [
+    58,
+    55
+   ],
+   "zoom": [
+    3.4,
+    1.9,
+    1
+   ],
+   "question": "Exact 737 variant? Type it in.",
+   "clues": [
+    "Count the exits behind the wing.",
+    "LEAP-1B engines with chevroned nacelles and split-tip winglets.",
+    "Longer than the -8, shorter than the -10."
+   ],
+   "options": [],
+   "answer": "737-9 MAX",
+   "aliases": [
+    "737-9",
+    "737 max 9",
+    "737-9 max",
+    "max 9",
+    "max9",
+    "b39m",
+    "737max9",
+    "boeing 737-9",
+    "boeing 737 max 9",
+    "7m9",
+    "737-900 max"
+   ],
+   "tell": "The mid-cabin exit door (a plugged door on Alaska's jets) just behind the wing. The 737-8 does not have it; the 737-900ER has it too but has CFM56 engines with smooth nacelles and no split-tip winglets.",
+   "fact": "Alaska Airlines 737-9 departing Boston runway 33L. Registration blurred.",
+   "credit": {
+    "title": "Alaska Airlines Boeing 737-9 MAX N928AK departing Boston June 2025 1.jpg",
+    "artist": "4300streetcar",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Alaska_Airlines_Boeing_737-9_MAX_N928AK_departing_Boston_June_2025_1.jpg",
+    "changes": "Resized to 900 px wide, all embedded metadata (EXIF/XMP) stripped; zoomed crops shown during play. Registration blurred."
+   },
+   "date": "2026-10-14",
+   "image": "img/puzzle-4.jpg",
+   "n": 4
+  },
+  {
+   "format": "Tail history",
+   "mode": "choice",
+   "focus": [
+    50,
+    48
+   ],
+   "zoom": [
+    2.4,
+    1.5,
+    1
+   ],
+   "question": "This 747 later became NASA 905. Who was its first operator?",
+   "clues": [
+    "It is a 747-100, delivered new in 1970.",
+    "Boeing's customer code in its model number is 23.",
+    "Its original registration was N9668."
+   ],
+   "options": [
+    "American Airlines",
+    "Pan Am",
+    "TWA",
+    "Northwest Orient"
+   ],
+   "answer": "American Airlines",
+   "aliases": [
+    "american",
+    "american airlines",
+    "aa"
+   ],
+   "tell": "The model number. NASA 905 is a 747-123, and the '23' customer code belongs to American Airlines. NASA bought it in 1974.",
+   "fact": "In September 2012 NASA 905 carried Space Shuttle Endeavour on its final ferry flight into LAX, with a low pass over SoCal on the way.",
+   "credit": {
+    "title": "Shuttle Columbia on NASA 905 in 1979.jpg",
+    "artist": "NASA",
+    "license": "Public domain",
+    "license_url": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Shuttle_Columbia_on_NASA_905_in_1979.jpg",
+    "changes": "Resized to 900 px wide, all embedded metadata (EXIF/XMP) stripped; zoomed crops shown during play."
+   },
+   "date": "2026-10-15",
+   "image": "img/puzzle-5.jpg",
+   "n": 5
+  },
+  {
+   "format": "Exact variant",
+   "mode": "choice",
+   "focus": [
+    50,
+    58
+   ],
+   "zoom": [
+    2.6,
+    1.6,
+    1
+   ],
+   "question": "Close-up of the main gear. Which aircraft?",
+   "clues": [
+    "Count the wheels on one main gear leg.",
+    "Airbus stretched this one by about 7 m and gave it a stronger gear.",
+    "Launch operator was Qatar Airways in 2018."
+   ],
+   "options": [
+    "A330-900neo",
+    "A350-900",
+    "A350-1000",
+    "787-10"
+   ],
+   "answer": "A350-1000",
+   "aliases": [
+    "a350-1000",
+    "a35k",
+    "a350 1000",
+    "airbus a350-1000",
+    "a3510"
+   ],
+   "tell": "Six-wheel main bogies. The A350-900, A330neo and 787-10 all use four-wheel bogies.",
+   "fact": "This photo shows the first A350-1000 delivered. Launch customer Qatar Airways took it in February 2018.",
+   "credit": {
+    "title": "Airbus A350-1000 landing gear.jpg",
+    "artist": "Juke Schweizer",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Airbus_A350-1000_landing_gear.jpg",
+    "changes": "Resized to 900 px wide, all embedded metadata (EXIF/XMP) stripped; zoomed crops shown during play."
+   },
+   "date": "2026-10-16",
+   "image": "img/puzzle-6.jpg",
+   "n": 6
+  },
+  {
+   "format": "Odd one out",
+   "mode": "choice",
+   "focus": [
+    50,
+    50
+   ],
+   "zoom": [
+    2,
+    1.4,
+    1
+   ],
+   "question": "Three of these jets had their final assembly in Southern California. Which one did not?",
+   "clues": [
+    "The TriStar in the photo is one of the three.",
+    "Think Long Beach and Palmdale.",
+    "The odd one out was built alongside the 737 in Washington state."
+   ],
+   "options": [
+    "Lockheed L-1011 TriStar",
+    "McDonnell Douglas MD-11",
+    "Boeing 717",
+    "Boeing 757"
+   ],
+   "answer": "Boeing 757",
+   "aliases": [
+    "757",
+    "b757",
+    "boeing 757",
+    "757-200"
+   ],
+   "tell": "The 757 came off Boeing's Renton, Washington line. TriStars were assembled at Lockheed's Palmdale plant; the MD-11 and 717 at Douglas (later Boeing) Long Beach.",
+   "fact": "The last airliner built in Long Beach was a 717 for AirTran in 2006; the C-17 line there closed in 2015.",
+   "credit": {
+    "title": "Lockheed L-1011-300 Tristar N172DA Delta ATL GA1.jpg",
+    "artist": "Acroterion",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Lockheed_L-1011-300_Tristar_N172DA_Delta_ATL_GA1.jpg",
+    "changes": "Resized to 900 px wide, all embedded metadata (EXIF/XMP) stripped; zoomed crops shown during play."
+   },
+   "date": "2026-10-17",
+   "image": "img/puzzle-7.jpg",
+   "n": 7
+  }
+ ]
+}
