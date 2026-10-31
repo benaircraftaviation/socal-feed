@@ -324,6 +324,327 @@
    "date": "2026-10-17",
    "image": "img/puzzle-7.jpg",
    "n": 7
+  },
+  {
+   "format": "Exact variant",
+   "mode": "choice",
+   "focus": [
+    50,
+    48
+   ],
+   "zoom": [
+    3.0,
+    1.7,
+    1
+   ],
+   "question": "Which exact variant is this airBaltic jet?",
+   "clues": [
+    "Judge the cabin length against the size of the engines.",
+    "airBaltic's entire jet fleet is a single type and a single length.",
+    "It is the longer of the two versions Bombardier designed as the CSeries."
+   ],
+   "options": [
+    "A220-100",
+    "A220-300",
+    "E195-E2",
+    "A319neo"
+   ],
+   "answer": "A220-300",
+   "aliases": [
+    "a220-300",
+    "a223",
+    "bcs3",
+    "cs300",
+    "cseries cs300",
+    "airbus a220-300",
+    "a220 300"
+   ],
+   "tell": "The big PW1500G geared turbofans under a clean, slim wing and the long cabin. The A220-300 is 3.7 m longer than the -100, the E195-E2 has a different nose and tail, and the A319neo has wingtip sharklets.",
+   "fact": "airBaltic flies only the A220-300 and was its launch operator in December 2016, when the type was still called the Bombardier CS300. Registration blurred.",
+   "credit": {
+    "title": "AirBaltic Airbus A220-300 at Riga Airport.jpg",
+    "artist": "Simply Aviation",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:AirBaltic_Airbus_A220-300_at_Riga_Airport.jpg",
+    "changes": "Resized to 900 px wide, all embedded metadata (EXIF/XMP) stripped; zoomed crops shown during play. Registration and small nose lettering blurred."
+   },
+   "date": "2026-10-31",
+   "image": "img/puzzle-8.jpg",
+   "n": 8
+  },
+  {
+   "format": "Engine ID",
+   "mode": "choice",
+   "focus": [
+    82,
+    60
+   ],
+   "zoom": [
+    3.2,
+    1.8,
+    1
+   ],
+   "question": "Name the engine family on this Cathay Pacific A330-300.",
+   "clues": [
+    "Rule out the A330neo-only option first.",
+    "Cathay picked the British option for every A330 it ordered.",
+    "Cathay Pacific was the launch operator of this engine in 1995."
+   ],
+   "options": [
+    "Rolls-Royce Trent 700",
+    "GE CF6-80E1",
+    "Pratt & Whitney PW4000-100",
+    "Rolls-Royce Trent 7000"
+   ],
+   "answer": "Rolls-Royce Trent 700",
+   "aliases": [
+    "trent 700",
+    "rr trent 700",
+    "rolls-royce trent 700",
+    "trent700",
+    "rb211 trent 700"
+   ],
+   "tell": "This is an A330ceo, so the neo-only Trent 7000 is out, and Cathay Pacific specified the Trent 700 for all of its A330s. Expert spotters also look for the Trent's long, full-length nacelle.",
+   "fact": "The Trent 700 entered service with Cathay Pacific on the A330 in 1995, the first member of the Trent family to fly with an airline.",
+   "credit": {
+    "title": "Cathay Pacific A330-300(B-HLJ) (3874487224).jpg",
+    "artist": "Kentaro Iemoto from Tokyo, Japan",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cathay_Pacific_A330-300(B-HLJ)_(3874487224).jpg",
+    "changes": "Resized to 900 px wide, all embedded metadata (EXIF/XMP) stripped; zoomed crops shown during play. Small fuselage lettering near the nose blurred."
+   },
+   "date": "2026-11-01",
+   "image": "img/puzzle-9.jpg",
+   "n": 9
+  },
+  {
+   "format": "Which airport",
+   "mode": "choice",
+   "focus": [
+    46,
+    55
+   ],
+   "zoom": [
+    2.6,
+    1.6,
+    1
+   ],
+   "question": "Which Southern California airport terminal is this?",
+   "clues": [
+    "Read the landscape, not the building.",
+    "Low desert scrub, palms and bare mountains close behind the field.",
+    "It sits at the foot of Mount San Jacinto, with open-air gate areas on the ramp."
+   ],
+   "options": [
+    "Palm Springs (PSP)",
+    "Ontario (ONT)",
+    "Burbank (BUR)",
+    "San Diego (SAN)"
+   ],
+   "answer": "Palm Springs (PSP)",
+   "aliases": [
+    "psp",
+    "kpsp",
+    "palm springs",
+    "palm springs international",
+    "palm springs (psp)"
+   ],
+   "tell": "The white tent-style canopies over the terminal plus the open Coachella Valley desert and mountains right behind it. ONT and BUR sit in built-up valleys, and SAN is on San Diego Bay.",
+   "fact": "Palm Springs International is the main airline airport for the Coachella Valley. Its original terminal was designed by desert modernist architect Donald Wexler and opened in 1965.",
+   "credit": {
+    "title": "1 Palm Springs International Airport gf52.jpg",
+    "artist": "Gillfoto",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:1_Palm_Springs_International_Airport_gf52.jpg",
+    "changes": "Resized to 900 px wide, all embedded metadata (EXIF/XMP) stripped; zoomed crops shown during play."
+   },
+   "date": "2026-11-02",
+   "image": "img/puzzle-10.jpg",
+   "n": 10
+  },
+  {
+   "format": "Exact variant (type it)",
+   "mode": "type",
+   "focus": [
+    45,
+    55
+   ],
+   "zoom": [
+    3.2,
+    1.8,
+    1
+   ],
+   "question": "Exact 787 variant? Type it in.",
+   "clues": [
+    "Compare the cabin length behind the wing to the length ahead of it.",
+    "The longest Dreamliner, a simple stretch of the -9.",
+    "United is its largest US operator and Singapore Airlines took the first one."
+   ],
+   "options": [],
+   "answer": "787-10",
+   "aliases": [
+    "787-10",
+    "b78x",
+    "78x",
+    "787 10",
+    "boeing 787-10",
+    "787-10 dreamliner",
+    "7810"
+   ],
+   "tell": "A very long, slender fuselage with an extra-long aft cabin. The 787-10 is 5.5 m longer than the -9 and 11.6 m longer than the -8, with the same wing.",
+   "fact": "The 787-10 first flew in March 2017 and entered service with Singapore Airlines in April 2018. Registration, fleet number and the 787 lettering are blurred.",
+   "credit": {
+    "title": "United Boeing 787-10 N12003 MD1.jpg",
+    "artist": "Acroterion",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:United_Boeing_787-10_N12003_MD1.jpg",
+    "changes": "Resized to 900 px wide, all embedded metadata (EXIF/XMP) stripped; zoomed crops shown during play. Registration, fleet number and model lettering blurred."
+   },
+   "date": "2026-11-03",
+   "image": "img/puzzle-11.jpg",
+   "n": 11
+  },
+  {
+   "format": "Tail history",
+   "mode": "choice",
+   "focus": [
+    50,
+    50
+   ],
+   "zoom": [
+    2.4,
+    1.5,
+    1
+   ],
+   "question": "This NASA 747SP flying observatory was based in Palmdale. Who was its first operator?",
+   "clues": [
+    "It was delivered new in 1977.",
+    "Its first owner named it Clipper Lindbergh.",
+    "It later flew for United before NASA bought it."
+   ],
+   "options": [
+    "Pan Am",
+    "United Airlines",
+    "Qantas",
+    "South African Airways"
+   ],
+   "answer": "Pan Am",
+   "aliases": [
+    "pan am",
+    "pan american",
+    "pan american world airways",
+    "pa",
+    "paa"
+   ],
+   "tell": "SOFIA (N747NA) began life with Pan Am as Clipper Lindbergh, moved to United when Pan Am sold its Pacific routes, and was bought by NASA in 1997.",
+   "fact": "SOFIA carried a 2.5 m infrared telescope behind a door in its rear fuselage. It flew its last science mission in 2022 and is now displayed at the Pima Air and Space Museum in Tucson.",
+   "credit": {
+    "title": "SOFIA in air.jpg",
+    "artist": "NASA/Carla Thomas",
+    "license": "Public domain",
+    "license_url": null,
+    "page": "https://commons.wikimedia.org/wiki/File:SOFIA_in_air.jpg",
+    "changes": "Resized to 900 px wide, all embedded metadata (EXIF/XMP) stripped; zoomed crops shown during play."
+   },
+   "date": "2026-11-04",
+   "image": "img/puzzle-12.jpg",
+   "n": 12
+  },
+  {
+   "format": "Exact variant",
+   "mode": "choice",
+   "focus": [
+    50,
+    52
+   ],
+   "zoom": [
+    3.0,
+    1.7,
+    1
+   ],
+   "question": "Which exact variant is this narrowbody?",
+   "clues": [
+    "Count the doors and look how far the fuselage runs behind the wing.",
+    "Only 55 of this version were built.",
+    "Launch customer was the German leisure airline Condor in 1999."
+   ],
+   "options": [
+    "757-200",
+    "757-300",
+    "767-200",
+    "A321neo"
+   ],
+   "answer": "757-300",
+   "aliases": [
+    "757-300",
+    "753",
+    "b753",
+    "boeing 757-300",
+    "757 300"
+   ],
+   "tell": "A 757 wing and nose, but a far longer fuselage stretching well behind the wing. The 757-300 is about 7 m longer than the -200, which makes it the longest single-aisle twin jet built.",
+   "fact": "Delta inherited its 757-300s from Northwest. Registration and fleet numbers blurred.",
+   "credit": {
+    "title": "Delta Boeing 757-300 N586NW.jpg",
+    "artist": "Motohide Miwa from USA",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Delta_Boeing_757-300_N586NW.jpg",
+    "changes": "Resized to 900 px wide, all embedded metadata (EXIF/XMP) stripped; zoomed crops shown during play. Registration and fleet numbers blurred."
+   },
+   "date": "2026-11-05",
+   "image": "img/puzzle-13.jpg",
+   "n": 13
+  },
+  {
+   "format": "Odd one out",
+   "mode": "choice",
+   "focus": [
+    30,
+    62
+   ],
+   "zoom": [
+    2.6,
+    1.6,
+    1
+   ],
+   "question": "The jet in the photo is an MD-88. Three of these types are members of its DC-9 family. Which is the odd one out?",
+   "clues": [
+    "Rear-mounted engines and a T-tail are not enough to decide.",
+    "Three were built by Douglas (later McDonnell Douglas and Boeing) in Long Beach.",
+    "The odd one out came from the Netherlands."
+   ],
+   "options": [
+    "Boeing 717",
+    "McDonnell Douglas MD-90",
+    "McDonnell Douglas MD-87",
+    "Fokker 100"
+   ],
+   "answer": "Fokker 100",
+   "aliases": [
+    "fokker 100",
+    "f100",
+    "fokker f100",
+    "f-100",
+    "fokker"
+   ],
+   "tell": "The Fokker 100 grew out of the Dutch Fokker F28. The 717 (launched as the MD-95), MD-87 and MD-90 are all DC-9 derivatives built in Long Beach.",
+   "fact": "Delta retired its last MD-88s in June 2020. Registration too small to read in this photo.",
+   "credit": {
+    "title": "Delta N919DE McDonnell-Douglas MD-88 (35049446590).jpg",
+    "artist": "formulanone from Huntsville, United States",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Delta_N919DE_McDonnell-Douglas_MD-88_(35049446590).jpg",
+    "changes": "Resized to 900 px wide, all embedded metadata (EXIF/XMP) stripped; zoomed crops shown during play."
+   },
+   "date": "2026-11-06",
+   "image": "img/puzzle-14.jpg",
+   "n": 14
   }
  ]
 }
