@@ -601,50 +601,666 @@
    "n": 13
   },
   {
+   "n": 15,
+   "date": "2026-11-06",
+   "format": "Aircraft ID",
+   "mode": "choice",
+   "focus": [
+    78,
+    45
+   ],
+   "zoom": [
+    2.2,
+    1.5,
+    1
+   ],
+   "question": "Which regional jet is this?",
+   "clues": [
+    "Compare the nose with the engine diameter. The titles are not the type.",
+    "Those nacelles are much wider than a CF34.",
+    "The nose is longer than a first-generation E-Jet. An A220 radome is rounder."
+   ],
+   "options": [
+    "Embraer E195-E2",
+    "Embraer E195",
+    "Airbus A220-300",
+    "Embraer E175"
+   ],
+   "answer": "Embraer E195-E2",
+   "aliases": [
+    "e195-e2",
+    "e195 e2",
+    "embraer e195-e2",
+    "embraer e195 e2",
+    "e295",
+    "erj 190-400",
+    "190-400"
+   ],
+   "tell": "The E195-E2 pairs a longer, more pointed nose with Pratt & Whitney PW1900G geared turbofans. The E175 and the first-generation E195 use smaller CF34s. The A220-300 also has a geared turbofan, but its nose and windshield are rounder.",
+   "fact": "KLM Cityhopper E195-E2. The E2 wing is a new, longer wing, and the engine is the PW1900G rather than the CF34-10E of the E195. Registration blurred.",
+   "image": "img/puzzle-15.jpg",
+   "credit": {
+    "title": "KLM Cityhopper Embraer E195-E2 PH-NXB at Schiphol 24-11-2022.jpg",
+    "artist": "Robbie Klinkenberg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:KLM_Cityhopper_Embraer_E195-E2_PH-NXB_at_Schiphol_24-11-2022.jpg",
+    "changes": "Resized to 900 px wide, all embedded metadata (EXIF/XMP) stripped; zoomed crops shown during play. Registration blurred."
+   }
+  },
+  {
+   "n": 16,
+   "date": "2026-11-07",
+   "format": "BizJet ID",
+   "mode": "choice",
+   "focus": [
+    38,
+    44
+   ],
+   "zoom": [
+    1.45,
+    1.2,
+    1
+   ],
+   "question": "Which business jet is this?",
+   "clues": [
+    "Count the oval cabin windows, then look at the tail.",
+    "There are eight large ovals, and no engine in the fin.",
+    "The G550 has seven smaller windows. Global 7500 windows are rectangular. The Falcon 8X is a trijet."
+   ],
+   "options": [
+    "Gulfstream G650",
+    "Gulfstream G550",
+    "Bombardier Global 7500",
+    "Dassault Falcon 8X"
+   ],
+   "answer": "Gulfstream G650",
+   "aliases": [
+    "g650",
+    "gulfstream g650",
+    "glf6",
+    "g-vi",
+    "g650er",
+    "gulfstream g650er"
+   ],
+   "tell": "Eight large oval cabin windows and a clean tail. The G550 has seven, and they are smaller. The Global 7500's windows are bigger rectangles. The Falcon 8X carries a third engine in the tail.",
+   "fact": "EC-LZU is a 2013 Gulfstream G650, c/n 6066. The G650ER is the same shape with more range, so the window count is the family tell. Registration on the tail blurred.",
+   "image": "img/puzzle-16.jpg",
+   "credit": {
+    "title": "EC-LZU Gulfstream G650 SCQ.jpg",
+    "artist": "Bene Riobó",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:EC-LZU_Gulfstream_G650_SCQ.jpg",
+    "changes": "Resized to 900 px wide, all embedded metadata (EXIF/XMP) stripped; zoomed crops shown during play. Registration on the tail blurred."
+   }
+  },
+  {
+   "n": 17,
+   "date": "2026-11-08",
    "format": "Odd one out",
    "mode": "choice",
    "focus": [
-    30,
-    62
+    64,
+    58
    ],
    "zoom": [
-    2.6,
-    1.6,
+    1.8,
+    1.35,
     1
    ],
-   "question": "The jet in the photo is an MD-88. Three of these types are members of its DC-9 family. Which is the odd one out?",
+   "question": "Three of these can wear this wingtip. Which cannot?",
    "clues": [
-    "Rear-mounted engines and a T-tail are not enough to decide.",
-    "Three were built by Douglas (later McDonnell Douglas and Boeing) in Long Beach.",
-    "The odd one out came from the Netherlands."
+    "Look at the blade under the tip, not only the tall blue piece.",
+    "This is an Aviation Partners split scimitar, a retrofit for the 737NG.",
+    "The 737 MAX leaves the factory with a different tip, the Advanced Technology winglet."
    ],
    "options": [
-    "Boeing 717",
-    "McDonnell Douglas MD-90",
-    "McDonnell Douglas MD-87",
-    "Fokker 100"
+    "Boeing 737-700",
+    "Boeing 737-800",
+    "Boeing 737-900ER",
+    "Boeing 737-8"
    ],
-   "answer": "Fokker 100",
+   "answer": "Boeing 737-8",
    "aliases": [
-    "fokker 100",
-    "f100",
-    "fokker f100",
-    "f-100",
-    "fokker"
+    "737-8",
+    "737 max 8",
+    "737-8 max",
+    "max 8",
+    "b38m",
+    "boeing 737-8"
    ],
-   "tell": "The Fokker 100 grew out of the Dutch Fokker F28. The 717 (launched as the MD-95), MD-87 and MD-90 are all DC-9 derivatives built in Long Beach.",
-   "fact": "Delta retired its last MD-88s in June 2020. Registration too small to read in this photo.",
+   "tell": "The lower ventral blade plus the hooked cap is the Split Scimitar Winglet, certified for the 737-700, 737-800, 737-900 and 737-900ER. The 737-8 uses Boeing's Advanced Technology winglet instead.",
+   "fact": "Split scimitars are a retrofit of the older blended winglet, not a MAX part. A second aircraft in the original frame, with a different scimitar tip, was cropped out.",
+   "image": "img/puzzle-17.jpg",
    "credit": {
-    "title": "Delta N919DE McDonnell-Douglas MD-88 (35049446590).jpg",
-    "artist": "formulanone from Huntsville, United States",
+    "title": "Boeing 737 and 757 scimitar winglets comparison.jpg",
+    "artist": "4300streetcar",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Boeing_737_and_757_scimitar_winglets_comparison.jpg",
+    "changes": "Cropped to the near split-scimitar wingtip, resized to 900 px wide, all embedded metadata (EXIF/XMP) stripped; zoomed crops shown during play."
+   }
+  },
+  {
+   "n": 18,
+   "date": "2026-11-09",
+   "format": "Engine ID",
+   "mode": "choice",
+   "focus": [
+    32,
+    54
+   ],
+   "zoom": [
+    1.9,
+    1.4,
+    1
+   ],
+   "question": "Which engine is under this wing?",
+   "clues": [
+    "Look at the nozzle. Is the trailing edge sawtoothed or smooth?",
+    "The nacelle is large and round, and the nozzle has no chevrons.",
+    "Chevrons would make it a LEAP. A flattened bottom would make it the 737 MAX's LEAP-1B."
+   ],
+   "options": [
+    "Pratt & Whitney PW1100G",
+    "CFM LEAP-1A",
+    "CFM LEAP-1B",
+    "CFM56-5B"
+   ],
+   "answer": "Pratt & Whitney PW1100G",
+   "aliases": [
+    "pw1100g",
+    "pw1100g-jm",
+    "pratt & whitney pw1100g",
+    "pw1127g",
+    "purepower pw1100g",
+    "gtf"
+   ],
+   "tell": "A fat round nacelle and a smooth nozzle. That is the PW1100G family. The LEAP-1A is also big and round, but its nozzle is chevroned. The LEAP-1B is flattened underneath. The CFM56-5B is a smaller, longer nacelle.",
+   "fact": "Lufthansa A320neo D-AINU is an A320-271N. Its PW1127G is a thrust rating in the PW1100G family. In Airbus's three-digit engine code, the 1 means Pratt & Whitney.",
+   "image": "img/puzzle-18.jpg",
+   "credit": {
+    "title": "D-AINU A320neo Lufthansa PW1100G SCQ.jpg",
+    "artist": "Bene Riobó",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:D-AINU_A320neo_Lufthansa_PW1100G_SCQ.jpg",
+    "changes": "Resized to 900 px wide, all embedded metadata (EXIF/XMP) stripped; zoomed crops shown during play."
+   }
+  },
+  {
+   "n": 19,
+   "date": "2026-11-10",
+   "format": "Registration",
+   "mode": "choice",
+   "focus": [
+    28,
+    48
+   ],
+   "zoom": [
+    2.4,
+    1.55,
+    1
+   ],
+   "question": "Where is this aircraft registered?",
+   "clues": [
+    "Read the marks on the engine, including the letter after the hyphen.",
+    "Several island registers share the VP- prefix. The next letter is the one that matters.",
+    "VP-C is the Cayman Islands. Bermuda is VP-B, and the British Virgin Islands are VP-L."
+   ],
+   "options": [
+    "Cayman Islands",
+    "Bermuda",
+    "British Virgin Islands",
+    "Isle of Man"
+   ],
+   "answer": "Cayman Islands",
+   "aliases": [
+    "cayman islands",
+    "cayman",
+    "vp-c",
+    "vpc",
+    "cayman islands (vp-c)"
+   ],
+   "tell": "The cowling reads VP-CPT. Cayman Islands marks are VP-C followed by two letters. Bermuda uses VP-B and VQ-B, so VP- alone is not enough.",
+   "fact": "The Isle of Man register uses M-, not VP-. This Global 6000 wears Cayman marks. The registration was left readable on purpose.",
+   "image": "img/puzzle-19.jpg",
+   "credit": {
+    "title": "Bombardier BD-700 Global Express 6000 ‘VP-CPT’.jpg",
+    "artist": "Hawkeye UK",
     "license": "CC BY-SA 2.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Delta_N919DE_McDonnell-Douglas_MD-88_(35049446590).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bombardier_BD-700_Global_Express_6000_%E2%80%98VP-CPT%E2%80%99.jpg",
+    "changes": "Resized to 900 px wide, all embedded metadata (EXIF/XMP) stripped; zoomed crops shown during play. Registration left readable."
+   }
+  },
+  {
+   "n": 20,
+   "date": "2026-11-11",
+   "format": "Airline + type",
+   "mode": "choice",
+   "focus": [
+    74,
+    50
+   ],
+   "zoom": [
+    2.2,
+    1.5,
+    1
+   ],
+   "question": "Which airline and type is this?",
+   "clues": [
+    "The windshield is shared with another Boeing. Judge the fuselage width beside it.",
+    "The titles on the forward fuselage name the airline. The body is too wide for a 757.",
+    "This is the widebody that uses the 757 flight deck. An A330 nose and a 737 nose do not match these windows."
+   ],
+   "options": [
+    "Delta Air Lines Boeing 767-300ER",
+    "Delta Air Lines Boeing 757-200",
+    "Delta Air Lines Boeing 737-900ER",
+    "Delta Air Lines Airbus A330-300"
+   ],
+   "answer": "Delta Air Lines Boeing 767-300ER",
+   "aliases": [
+    "delta 767-300er",
+    "delta 767",
+    "767-300er",
+    "767-300",
+    "boeing 767-300er",
+    "delta air lines 767-300er",
+    "767-332"
+   ],
+   "tell": "Boeing gave the 767 and the 757 the same windshield. The 767's fuselage is much wider, which shows in the cheek beside the jetway. Delta's widget is on the forward fuselage.",
+   "fact": "N194DN is a Delta 767-332, the airline's 767-300ER. The A330's cockpit mask is a different shape, and the 737 nose is smaller.",
+   "image": "img/puzzle-20.jpg",
+   "credit": {
+    "title": "Delta Boeing 767-300ER N194DN at Boston May 2025.jpg",
+    "artist": "4300streetcar",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Delta_Boeing_767-300ER_N194DN_at_Boston_May_2025.jpg",
     "changes": "Resized to 900 px wide, all embedded metadata (EXIF/XMP) stripped; zoomed crops shown during play."
+   }
+  },
+  {
+   "n": 21,
+   "date": "2026-11-12",
+   "format": "Exact variant",
+   "mode": "choice",
+   "focus": [
+    58,
+    44
+   ],
+   "zoom": [
+    2.0,
+    1.4,
+    1
+   ],
+   "question": "Which exact variant is this?",
+   "clues": [
+    "Find the door just behind the wing before you decide from the engine.",
+    "The 737-800 and the 737-8 do not have that extra exit.",
+    "The nacelle is a round CFM56 with a smooth lip, not a chevroned LEAP."
+   ],
+   "options": [
+    "737-800",
+    "737-900ER",
+    "737-8",
+    "737-9"
+   ],
+   "answer": "737-900ER",
+   "aliases": [
+    "737-900er",
+    "739",
+    "b739",
+    "boeing 737-900er",
+    "737 900er",
+    "900er"
+   ],
+   "tell": "An extra exit just aft of the wing, plus a round CFM56 rather than a LEAP. The 737-9 has the same door, but its LEAP-1B nacelle is flattened on the bottom and ends in chevrons.",
+   "fact": "Delta 737-900ER. That mid-exit door is the stretch that separates the 737-900ER from the 737-800. Registration blurred.",
+   "image": "img/puzzle-21.jpg",
+   "credit": {
+    "title": "Delta Boeing 737-900ER N837DN BWI MD1.jpg",
+    "artist": "Acroterion",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Delta_Boeing_737-900ER_N837DN_BWI_MD1.jpg",
+    "changes": "Resized to 900 px wide, all embedded metadata (EXIF/XMP) stripped; zoomed crops shown during play. Registration blurred."
+   }
+  },
+  {
+   "n": 22,
+   "date": "2026-11-13",
+   "format": "Aircraft ID",
+   "focus": [
+    20,
+    50
+   ],
+   "zoom": [
+    2.4,
+    1.5,
+    1
+   ],
+   "question": "Which classic airliner family is this?",
+   "clues": [
+    "Count the engines, then look at the landing gear.",
+    "Two radial engines, a tailwheel, one rounded fin, and a slim fuselage, not the C-46's deep, bulging one.",
+    "This exact airplane is on the list for tomorrow's Flabob Veterans Celebration."
+   ],
+   "options": [
+    "Douglas DC-3 / C-47",
+    "Curtiss C-46 Commando",
+    "Lockheed Lodestar",
+    "Convair 240"
+   ],
+   "answer": "Douglas DC-3 / C-47",
+   "aliases": [
+    "dc-3",
+    "dc3",
+    "c-47",
+    "c47",
+    "douglas dc-3",
+    "douglas c-47",
+    "c-47b",
+    "dakota",
+    "skytrain",
+    "douglas dc-3 / c-47"
+   ],
+   "tell": "Twin radials, a tailwheel and a single rounded fin. The C-46 is much bigger with a deep, bulging fuselage, the Lodestar has twin tail fins, and the Convair 240 sits on a nosewheel.",
+   "fact": "N103NA \"Flabob Express\" appears on Wikimedia Commons as both a DC-3 and a C-47B; the C-47 is the military version of the DC-3. Flabob lists the Flabob Express DC-3 for its Veterans Celebration on Sat, Nov 14. Photo from June 9, 2019.",
+   "image": "img/puzzle-22.jpg",
+   "credit": {
+    "title": "Douglas DC-3 N103NA Flabob Express (48105191588).jpg",
+    "artist": "jan hendrik de wit",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Douglas_DC-3_N103NA_Flabob_Express_(48105191588).jpg",
+    "changes": "Resized; embedded metadata stripped; zoomed crops shown during play. Registration left readable."
    },
-   "date": "2026-11-06",
-   "image": "img/puzzle-14.jpg",
-   "n": 14
+   "mode": "choice"
+  },
+  {
+   "n": 23,
+   "date": "2026-11-14",
+   "format": "Helicopter ID",
+   "focus": [
+    58,
+    28
+   ],
+   "zoom": [
+    2.2,
+    1.5,
+    1
+   ],
+   "question": "Which light helicopter is this?",
+   "clues": [
+    "Count the main rotor blades.",
+    "Four blades on a LongRanger-style cabin with big side windows.",
+    "Bell just delivered the 2,000th of this model."
+   ],
+   "options": [
+    "Bell 407",
+    "Bell 206L LongRanger",
+    "Airbus H125",
+    "MD 500E"
+   ],
+   "answer": "Bell 407",
+   "aliases": [
+    "bell 407",
+    "407",
+    "b407",
+    "bell 407gx",
+    "bell 407gxi"
+   ],
+   "tell": "A four-blade main rotor on a LongRanger-shaped cabin. The 206L LongRanger has a two-blade rotor, the H125 a three-blade rotor and a different nose, and the MD 500E is a much smaller egg-shaped helicopter.",
+   "fact": "N462P is a 2014 Bell 407 (serial 54164) owned by PHI Health, per its Commons description, photographed Feb 24, 2021. Bell delivered its 2,000th 407 to White Saddle Air Services in British Columbia (AviTrader, Nov 9, 2026).",
+   "image": "img/puzzle-23.jpg",
+   "credit": {
+    "title": "Bell 407 (N462P).jpg",
+    "artist": "JasonReina",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bell_407_(N462P).jpg",
+    "changes": "Resized; embedded metadata stripped; zoomed crops shown during play. Registration left readable."
+   },
+   "mode": "choice"
+  },
+  {
+   "n": 24,
+   "date": "2026-11-15",
+   "format": "Which airport",
+   "focus": [
+    45,
+    55
+   ],
+   "zoom": [
+    2.0,
+    1.4,
+    1
+   ],
+   "question": "Which SoCal airport is this?",
+   "clues": [
+    "Look at what sits next to the field and how close downtown is.",
+    "Open water sits right behind the gates.",
+    "It has a single runway and is fully closed 1:00 to 6:00 AM PT on Sun Nov 15 and Mon Nov 16 for work."
+   ],
+   "options": [
+    "San Diego (SAN)",
+    "Long Beach (LGB)",
+    "John Wayne (SNA)",
+    "Burbank (BUR)"
+   ],
+   "answer": "San Diego (SAN)",
+   "aliases": [
+    "san",
+    "ksan",
+    "san diego",
+    "san diego international",
+    "lindbergh field",
+    "san diego (san)"
+   ],
+   "tell": "Gates backed right up against the bay, next to downtown. None of Long Beach, John Wayne or Burbank has its gates backed onto open water.",
+   "fact": "Aerial photo of San Diego International Airport, Feb 28, 2022. SAN is fully closed Sun Nov 15 and Mon Nov 16 from 1:00 to 6:00 AM PT (NOTAMs 11/043 and 11/048).",
+   "image": "img/puzzle-24.jpg",
+   "credit": {
+    "title": "Aerial photograph of San Diego airport 1.jpg",
+    "artist": "Mertbiol",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_of_San_Diego_airport_1.jpg",
+    "changes": "Resized; embedded metadata stripped; zoomed crops shown during play."
+   },
+   "mode": "choice"
+  },
+  {
+   "n": 25,
+   "date": "2026-11-16",
+   "format": "Exact variant",
+   "focus": [
+    55,
+    52
+   ],
+   "zoom": [
+    2.4,
+    1.5,
+    1
+   ],
+   "question": "Which exact variant is this JetBlue jet?",
+   "clues": [
+    "First decide A320 or A321: count the doors along the fuselage.",
+    "There are extra doors ahead of and behind the wing, so it is the long one.",
+    "Now look at the engine size. These nacelles are slim, not the fat new-engine kind."
+   ],
+   "options": [
+    "A321ceo",
+    "A321neo",
+    "A320ceo",
+    "A321XLR"
+   ],
+   "answer": "A321ceo",
+   "aliases": [
+    "a321ceo",
+    "a321",
+    "a321-200",
+    "a321 ceo",
+    "airbus a321ceo",
+    "a321-231"
+   ],
+   "tell": "The A321 adds a door ahead of and behind the wing that the A320 does not have. The A321neo and A321XLR use much larger LEAP-1A or PW1100G nacelles, so slimmer engines point to the ceo.",
+   "fact": "JetBlue A321ceo N980JT landing on Runway 27 at San Diego, Feb 18, 2019, per its Commons description. JetBlue restarts daily SAN to Fort Lauderdale on Nov 19 with the A321ceo (Simple Flying, Nov 9).",
+   "image": "img/puzzle-25.jpg",
+   "credit": {
+    "title": "JetBlueA321ceoN980JT SANFebruary2019.jpg",
+    "artist": "Johnnyw3",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:JetBlueA321ceoN980JT_SANFebruary2019.jpg",
+    "changes": "Resized; embedded metadata stripped; zoomed crops shown during play. Registration left readable."
+   },
+   "mode": "choice"
+  },
+  {
+   "n": 26,
+   "date": "2026-11-17",
+   "format": "BizJet ID",
+   "focus": [
+    35,
+    40
+   ],
+   "zoom": [
+    2.2,
+    1.5,
+    1
+   ],
+   "question": "Which business jet is this?",
+   "clues": [
+    "Look at the window shape, then the length of the cabin.",
+    "Large rounded-rectangle windows, not Gulfstream ovals.",
+    "This is Bombardier's flagship four-zone Global, with more windows than a Global 6000."
+   ],
+   "options": [
+    "Bombardier Global 7500",
+    "Bombardier Global 6000",
+    "Gulfstream G700",
+    "Gulfstream G650"
+   ],
+   "answer": "Bombardier Global 7500",
+   "aliases": [
+    "global 7500",
+    "bombardier global 7500",
+    "gl7t",
+    "bd-700-2a12",
+    "global7500"
+   ],
+   "tell": "Bombardier windows and a very long cabin. The Global 6000 is noticeably shorter with fewer windows, and the G700 and G650 have Gulfstream's big oval windows.",
+   "fact": "CS-ESS, a 2021 Global 7500, on final at Baltimore/Washington International, May 20, 2025, per its Commons description. Bombardier's backlog reached $22.2 billion (Instajet).",
+   "image": "img/puzzle-26.jpg",
+   "credit": {
+    "title": "Bombardier Global 7500 CS-ESS BWI MD1.jpg",
+    "artist": "Acroterion",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bombardier_Global_7500_CS-ESS_BWI_MD1.jpg",
+    "changes": "Resized; embedded metadata stripped; zoomed crops shown during play. Registration left readable."
+   },
+   "mode": "choice"
+  },
+  {
+   "n": 27,
+   "date": "2026-11-18",
+   "format": "Rotorcraft ID",
+   "focus": [
+    50,
+    40
+   ],
+   "zoom": [
+    2.0,
+    1.4,
+    1
+   ],
+   "question": "Which rotorcraft is this?",
+   "clues": [
+    "Count the rotors.",
+    "Two rotors, front and back, and four landing-gear legs.",
+    "A civil one was scheduled to fly along Santa Monica Beach for Veterans Day."
+   ],
+   "options": [
+    "Boeing CH-47 Chinook",
+    "Boeing Vertol CH-46 Sea Knight",
+    "Sikorsky CH-53E Super Stallion",
+    "Bell Boeing V-22 Osprey"
+   ],
+   "answer": "Boeing CH-47 Chinook",
+   "aliases": [
+    "ch-47",
+    "ch47",
+    "chinook",
+    "boeing ch-47",
+    "ch-47f",
+    "boeing ch-47 chinook"
+   ],
+   "tell": "Tandem rotors on a big boxy fuselage with four landing-gear legs. The CH-46 also has tandem rotors but is smaller and sits on three landing-gear legs, the CH-53E has one main rotor, and the V-22 tilts its rotors on wingtips.",
+   "fact": "U.S. Army CH-47F hovering at Frederick Municipal Airport, Maryland, Nov 6, 2024, per its Commons description. Coulson Aviation was set to fly a Chinook and a C-130 along the Santa Monica shoreline on Veterans Day (Yo! Venice, Nov 10).",
+   "image": "img/puzzle-27.jpg",
+   "credit": {
+    "title": "U.S. Army Boeing CH-47F Chinook 11-08097 FDK MD1.jpg",
+    "artist": "Acroterion",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:U.S._Army_Boeing_CH-47F_Chinook_11-08097_FDK_MD1.jpg",
+    "changes": "Resized; embedded metadata stripped; zoomed crops shown during play. Registration left readable."
+   },
+   "mode": "choice"
+  },
+  {
+   "n": 28,
+   "date": "2026-11-19",
+   "format": "Airline + type",
+   "focus": [
+    45,
+    45
+   ],
+   "zoom": [
+    2.2,
+    1.5,
+    1
+   ],
+   "question": "Which airline and type is this?",
+   "clues": [
+    "Four engines and a hump. Now look at the wingtips.",
+    "No upturned winglets: the wingtips are swept back.",
+    "The engines have sawtooth chevrons at the back."
+   ],
+   "options": [
+    "Lufthansa Boeing 747-8",
+    "Lufthansa Boeing 747-400",
+    "Air China Boeing 747-8",
+    "Lufthansa Airbus A340-600"
+   ],
+   "answer": "Lufthansa Boeing 747-8",
+   "aliases": [
+    "lufthansa 747-8",
+    "747-8",
+    "747-8i",
+    "b748",
+    "boeing 747-8",
+    "lufthansa boeing 747-8",
+    "747-830"
+   ],
+   "tell": "A 747 hump with raked wingtips and chevroned GEnx engines. The 747-400 has upturned winglets and the A340-600 has no hump. The crane on the tail and the titles say Lufthansa, not Air China.",
+   "fact": "D-ABYL, a 2014 Lufthansa 747-8, approaching Washington Dulles, March 22, 2026, per its Commons description. Lufthansa's first A350-1000 arrived in Munich on Nov 11 (Lufthansa Group).",
+   "image": "img/puzzle-28.jpg",
+   "credit": {
+    "title": "Lufthansa Boeing 747-8 D-ABYL MD1.jpg",
+    "artist": "Acroterion",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Lufthansa_Boeing_747-8_D-ABYL_MD1.jpg",
+    "changes": "Resized; embedded metadata stripped; zoomed crops shown during play. Registration left readable."
+   },
+   "mode": "choice"
   }
  ]
 }
